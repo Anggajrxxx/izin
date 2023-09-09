@@ -314,7 +314,7 @@ clear
 echo -e "${green}ANDA YAKIN UNTUK UPDATE SCRIPT INI ? $NC"
 echo -e "${green}MINIMAL RAM 2 GB BIAR DISK TIDAK FULL $NC"
 echo -e "${green}OS SUPPORT UBUNTU 20.04 ONLY $NC"
-wget https://raw.githubusercontent.com/kytrx/v3/main/update.sh && chmod +x update.sh && ./update.sh
+wget https://raw.githubusercontent.com/Anggajrxxx/vip/main/update.sh && chmod +x update.sh && ./update.sh
 ;;
 24)
 clear
